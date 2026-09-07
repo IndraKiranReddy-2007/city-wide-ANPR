@@ -1,0 +1,16 @@
+﻿node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+.idea/
+*.log
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pt
+*.onnx
